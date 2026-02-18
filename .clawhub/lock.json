@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "skills": {
+    "find": {
+      "version": "1.0.0",
+      "installedAt": 1771298231444
+    },
+    "system-resource-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1771299435303
+    },
+    "log-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1771299440222
+    },
+    "api-tester": {
+      "version": "1.0.0",
+      "installedAt": 1771299416466
+    },
+    "database-operations": {
+      "version": "1.0.0",
+      "installedAt": 1771299418420
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1771299423633
+    },
+    "server-health": {
+      "version": "1.0.0",
+      "installedAt": 1771299438105
+    },
+    "cron-mastery": {
+      "version": "1.0.3",
+      "installedAt": 1771299442347
+    },
+    "git-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1771299444493
+    },
+    "docker-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1771299446745
+    },
+    "telegram": {
+      "version": "1.0.1",
+      "installedAt": 1771299448947
+    },
+    "imap-smtp-email": {
+      "version": "0.0.2",
+      "installedAt": 1771299451191
+    },
+    "git": {
+      "version": "1.0.2",
+      "installedAt": 1771299474087
+    },
+    "docker": {
+      "version": "1.0.2",
+      "installedAt": 1771299477959
+    },
+    "docker-compose": {
+      "version": "1.0.0",
+      "installedAt": 1771299480626
+    },
+    "api": {
+      "version": "1.0.1",
+      "installedAt": 1771299483296
+    },
+    "openclaw-backup": {
+      "version": "1.0.0",
+      "installedAt": 1771299503158
+    },
+    "git-workflows": {
+      "version": "1.0.0",
+      "installedAt": 1771299505476
+    },
+    "send-email": {
+      "version": "1.0.1",
+      "installedAt": 1771299547778
+    },
+    "email-to-calendar": {
+      "version": "1.13.1",
+      "installedAt": 1771299552598
+    },
+    "ping-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1771299554808
+    },
+    "security-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1771299556998
+    },
+    "system-info": {
+      "version": "1.0.0",
+      "installedAt": 1771299559240
+    },
+    "webhook": {
+      "version": "1.0.0",
+      "installedAt": 1771299787566
+    },
+    "telegram-bot": {
+      "version": "1.0.0",
+      "installedAt": 1771299795096
+    },
+    "web": {
+      "version": "1.0.0",
+      "installedAt": 1771301271075
+    },
+    "html": {
+      "version": "1.0.0",
+      "installedAt": 1771301273494
+    },
+    "css": {
+      "version": "1.0.1",
+      "installedAt": 1771301276355
+    },
+    "javascript": {
+      "version": "1.0.3",
+      "installedAt": 1771301279300
+    },
+    "react": {
+      "version": "1.0.3",
+      "installedAt": 1771301281879
+    },
+    "vue": {
+      "version": "1.0.1",
+      "installedAt": 1771301284829
+    },
+    "angular": {
+      "version": "1.0.1",
+      "installedAt": 1771301287779
+    },
+    "flask": {
+      "version": "1.0.0",
+      "installedAt": 1771301292150
+    },
+    "django": {
+      "version": "1.0.1",
+      "installedAt": 1771301294918
+    },
+    "php": {
+      "version": "1.0.1",
+      "installedAt": 1771301297933
+    },
+    "ruby": {
+      "version": "1.0.1",
+      "installedAt": 1771301300918
+    },
+    "nginx": {
+      "version": "1.0.1",
+      "installedAt": 1771301305600
+    },
+    "wordpress": {
+      "version": "1.0.0",
+      "installedAt": 1771301314554
+    },
+    "tailwindcss": {
+      "version": "1.0.0",
+      "installedAt": 1771301316626
+    },
+    "react-expert": {
+      "version": "0.1.0",
+      "installedAt": 1771301325122
+    },
+    "angular-architect": {
+      "version": "0.1.0",
+      "installedAt": 1771301335548
+    },
+    "drf": {
+      "version": "1.0.0",
+      "installedAt": 1771301340090
+    },
+    "typescript": {
+      "version": "1.0.2",
+      "installedAt": 1771301344501
+    },
+    "web-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1771301356387
+    },
+    "web-deploy-github": {
+      "version": "1.0.0",
+      "installedAt": 1771301367810
+    },
+    "web-perf": {
+      "version": "1.0.0",
+      "installedAt": 1771301370099
+    },
+    "nextjs": {
+      "version": "1.0.2",
+      "installedAt": 1771301380498
+    },
+    "svelte": {
+      "version": "1.0.0",
+      "installedAt": 1771301382906
+    },
+    "frontend": {
+      "version": "1.0.0",
+      "installedAt": 1771301575107
+    },
+    "frontend-design": {
+      "version": "1.0.0",
+      "installedAt": 1771301579111
+    },
+    "senior-frontend": {
+      "version": "1.0.0",
+      "installedAt": 1771301587016
+    },
+    "ui": {
+      "version": "1.0.0",
+      "installedAt": 1771301596566
+    },
+    "ux": {
+      "version": "1.0.0",
+      "installedAt": 1771301599019
+    },
+    "mobile": {
+      "version": "1.0.0",
+      "installedAt": 1771301604709
+    },
+    "accessibility": {
+      "version": "0.1.0",
+      "installedAt": 1771301615060
+    },
+    "backend": {
+      "version": "1.0.0",
+      "installedAt": 1771301655392
+    },
+    "senior-backend": {
+      "version": "1.0.0",
+      "installedAt": 1771301666893
+    },
+    "graphql": {
+      "version": "1.0.1",
+      "installedAt": 1771301674511
+    },
+    "api-gateway": {
+      "version": "1.0.32",
+      "installedAt": 1771301687313
+    },
+    "http": {
+      "version": "1.0.0",
+      "installedAt": 1771301764977
+    },
+    "network": {
+      "version": "1.0.0",
+      "installedAt": 1771301767573
+    },
+    "websocket": {
+      "version": "1.0.0",
+      "installedAt": 1771301784757
+    },
+    "cors": {
+      "version": "1.0.0",
+      "installedAt": 1771301787312
+    },
+    "mobile-app-builder": {
+      "version": "1.0.0",
+      "installedAt": 1771301891907
+    },
+    "flutter": {
+      "version": "1.0.1",
+      "installedAt": 1771301894398
+    },
+    "react-native": {
+      "version": "1.0.0",
+      "installedAt": 1771301896313
+    },
+    "ios": {
+      "version": "1.0.0",
+      "installedAt": 1771301898472
+    },
+    "android": {
+      "version": "1.0.1",
+      "installedAt": 1771301900660
+    },
+    "wechat-publisher": {
+      "version": "0.1.0",
+      "installedAt": 1771301909932
+    },
+    "wechat-mp-publisher": {
+      "version": "2.0.2",
+      "installedAt": 1771301913001
+    },
+    "electron": {
+      "version": "1.0.0",
+      "installedAt": 1771301954575
+    },
+    "vscode": {
+      "version": "1.0.0",
+      "installedAt": 1771301956985
+    },
+    "swift": {
+      "version": "1.0.1",
+      "installedAt": 1771301959979
+    },
+    "kotlin": {
+      "version": "1.0.1",
+      "installedAt": 1771301962668
+    },
+    "unity": {
+      "version": "1.0.0",
+      "installedAt": 1771301965030
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1771301973541
+    },
+    "woocommerce": {
+      "version": "1.0.3",
+      "installedAt": 1771302039580
+    },
+    "stripe-api": {
+      "version": "1.0.8",
+      "installedAt": 1771302041911
+    },
+    "stripe": {
+      "version": "2.3.2",
+      "installedAt": 1771302045936
+    },
+    "paypal": {
+      "version": "1.0.0",
+      "installedAt": 1771302050844
+    },
+    "ecommerce-price-watcher": {
+      "version": "1.1.0",
+      "installedAt": 1771302056597
+    },
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1771302066253
+    },
+    "debug-pro": {
+      "version": "1.0.0",
+      "installedAt": 1771302398453
+    },
+    "container-debug": {
+      "version": "1.0.0",
+      "installedAt": 1771302400925
+    },
+    "test-runner": {
+      "version": "1.0.0",
+      "installedAt": 1771302404443
+    },
+    "test-master": {
+      "version": "0.1.0",
+      "installedAt": 1771302408206
+    },
+    "health": {
+      "version": "1.0.1",
+      "installedAt": 1771302412152
+    },
+    "broken-link-checker": {
+      "version": "1.0.0",
+      "installedAt": 1771302414616
+    },
+    "error-guard": {
+      "version": "1.0.0",
+      "installedAt": 1771302427424
+    },
+    "test-specialist": {
+      "version": "0.1.0",
+      "installedAt": 1771302430042
+    },
+    "json-repair-kit": {
+      "version": "1.0.0",
+      "installedAt": 1771302432510
+    },
+    "system-repair-expert": {
+      "version": "1.0.0",
+      "installedAt": 1771302435298
+    },
+    "documentation": {
+      "version": "1.0.0",
+      "installedAt": 1771302524000
+    },
+    "project-documentation": {
+      "version": "1.0.0",
+      "installedAt": 1771302526425
+    },
+    "readme-generator": {
+      "version": "1.0.0",
+      "installedAt": 1771302528657
+    },
+    "specification-extractor": {
+      "version": "2.1.0",
+      "installedAt": 1771302532469
+    },
+    "schema-markup-generator": {
+      "version": "2.0.0",
+      "installedAt": 1771302536701
+    },
+    "spec-miner": {
+      "version": "0.1.0",
+      "installedAt": 1771302544453
+    },
+    "openapi2cli": {
+      "version": "1.0.0",
+      "installedAt": 1771302546581
+    },
+    "landing-page": {
+      "version": "1.0.0",
+      "installedAt": 1771302570854
+    },
+    "landing-page-generator": {
+      "version": "1.0.0",
+      "installedAt": 1771302598050
+    },
+    "app-builder": {
+      "version": "1.0.0",
+      "installedAt": 1771302600136
+    },
+    "ssl": {
+      "version": "1.0.2",
+      "installedAt": 1771304594719
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1771307296495
+    },
+    "openclaw-github-assistant": {
+      "version": "2.0.1",
+      "installedAt": 1771307303211
+    },
+    "website": {
+      "version": "1.0.0",
+      "installedAt": 1771308554209
+    },
+    "tunneling": {
+      "version": "1.0.0",
+      "installedAt": 1771369378621
+    },
+    "browser-auth": {
+      "version": "1.5.1",
+      "installedAt": 1771369401256
+    }
+  }
+}

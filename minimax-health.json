@@ -1,0 +1,7 @@
+{
+  "last_check": "2026-02-18T13:07:11.793Z",
+  "status": "healthy",
+  "rate_limited": false,
+  "current_model": "minimax-portal/MiniMax-M2.5",
+  "note": "MiniMax model is working correctly (OAuth token valid)"
+}
